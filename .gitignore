@@ -1,0 +1,6 @@
+﻿.env
+*.key
+*.pem
+*.token
+id_rsa
+id_ed25519
